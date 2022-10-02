@@ -1,11 +1,10 @@
 # lc-pfns
 
 Contains all the experimental data and code needed to reproduce the figures in 
-```
 @inproceedings{adriaensen2022learning,
   title={Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks},
-  author={Adriaensen, Steven and Rakotoarison, Herilalaina and Mueller, Samuel and Hutter, Frank},
-  booktitle={Workshop on Meta-Learning (MetaLearn 2022)@ NeurIPS 2022},
+  author={Anonymous},
+  booktitle={Under review: Workshop on Meta-Learning (MetaLearn 2022)@ NeurIPS 2022},
   year={2022},
   organization={Neural Information Processing Systems Foundation.}
 }
