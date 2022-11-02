@@ -11,7 +11,7 @@ Contains all the experimental data and code needed to reproduce the figures in "
 
 Reproduce figures from the paper by running notebooks under the ``notebooks/`` directory.
 
-### Cite
+### Citation
 
 ```
 @inproceedings{adriaensen2022learning,
