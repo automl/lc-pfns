@@ -1,4 +1,4 @@
-# lc-pfns
+#  Learning Curve Extrapolation using Prior-Data Fitted Networks
 
 Contains all the experimental data and code needed to reproduce the figures in "Efficient Bayesian Learning Curve Extrapolation using Prior-Data Fitted Networks" 
 
