@@ -7,7 +7,7 @@ Contains all the experimental data and code needed to reproduce the figures in "
 1. Install dependencies: ``pip install numpy pandas scipy matplotlib seaborn jupyter notebook``
 2. unzip data: ``unzip data.zip``
 
-### Instructions
+### Instruction
 
 Reproduce figures from the paper by running notebooks under the ``notebooks/`` directory.
 
